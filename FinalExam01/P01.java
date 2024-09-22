@@ -45,6 +45,7 @@ public class P01 {
             command = scanner.nextLine();
 
         }
+        // Add new comment
         System.out.printf("The decrypted message is: %s", message);
     }
 }
